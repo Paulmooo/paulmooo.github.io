@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/Paulmooo",
   },
   aboutMe:
-    "Full-stack web developer with hands-on experience delivering interactive and scalable web applications. I work across React, TypeScript, C#, ASP.NET Core, Azure, and SQL Server, with a focus on clean API design, reusable UI components, testing, and collaborative delivery.",
+    "Full-stack web developer with hands-on experience delivering interactive and scalable applications. Proficient in JavaScript, React, C#, .NET, Azure, CICD and SQL Server. Comfortable working across the stack, collaborating with cross-functional teams, and contributing to technical design decisions through delivery.",
   skills: [
     "TypeScript",
     "React",
@@ -33,8 +33,9 @@ export const siteConfig = {
         "ASP.NET Core",
         "C#",
         "EF Core",
+        "JWT",
         "SQL Server",
-        "Azure Blob Storage",
+        "Azure",
         "JWT",
         "xUnit",
       ],
@@ -45,9 +46,9 @@ export const siteConfig = {
         "Developed a Web Vitals monitoring SDK and analytics platform for collecting performance metrics, runtime errors, API timing, and user behaviour data, with a React dashboard using ECharts to surface trends and high-impact issues.",
       link: "https://github.com/Paulmooo/TrackPoint",
       skills: [
-        "JavaScript",
-        "React",
         "TypeScript",
+        "React",
+        "Zustand",
         "Web Vitals",
         "ECharts",
         "Jest",
